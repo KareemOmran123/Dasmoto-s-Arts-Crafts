@@ -23,13 +23,40 @@
     font-weight: bold;
 }
 
-.brush {
-    margin-top: 50px;
+.brush h2 {
+    background-color: mediumspringgreen;
     font-family: Helvetica;
     font-size: 32px;
     font-weight: bold;
     color: white;
-    background-color: pink;
+}
+
+.b-section {
+    font-family: Helvetica;
+    font-weight: bold;
+}
+
+.b-section p {
+    font-weight: normal;
+    font-family: Helvetica;
+}
+
+.frame h2 {
+    background-color: lightcoral;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.f-section {
+    font-family: Helvetica;
+    font-weight: bold;
+}
+
+.f-section p {
+    font-weight: normal;
+    font-family: Helvetica; 
 }
 
   
