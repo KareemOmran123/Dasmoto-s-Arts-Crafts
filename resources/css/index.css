@@ -59,4 +59,20 @@
     font-family: Helvetica; 
 }
 
-  
+.paint h2 {
+    background-color: skyblue;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.p-section { 
+    font-family: Helvetica;
+    font-weight: bold;
+}
+
+.p-section p {
+    font-weight: normal;
+    font-family: Helvetica; 
+}
